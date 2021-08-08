@@ -6,7 +6,7 @@ The first REal-world VIdeo DEhazing dataset (REVIDE) for supervised training of 
 
 Here is a TODO list in the near future:
 
-- [ ] New official Website
+- [ ] New official website
 - [ ] Releasing the outdoor part of REVIDE
 - [ ] Releasing the synthetic video dehazing dataset (**REVIDE-SYN**)
 - [ ] The training and inference scripts
