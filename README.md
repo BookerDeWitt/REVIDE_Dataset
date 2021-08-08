@@ -25,7 +25,7 @@ capture paired real-world hazy and haze-free videos that are perfectly aligned b
 **REVIDE-Indoor Dataset:** [Baidu Yun](https://pan.baidu.com/s/1fycPTzcyEAJkgN-hKKi6ew) (Code:**n6r8**) |  [Google Drive](https://drive.google.com/drive/u/0/folders/1MuxE6zcXCFyommxzUvFKCUxNJVMYr50k) 
 
 ## Official Link
-The real world datasets for video restoration will be a long-term project in our team, and we will update the REVIDE dataset (including the **REVIDE-Indoor**, **REVIDE-SYN**, and more real world video restoration datasets) in our new official website (Coming soon).
+The real world datasets for video restoration will be a long-term project in our team, and we will update the **REVIDE** dataset (including the **REVIDE-Indoor**, **REVIDE-SYN**, and more real world video restoration datasets) in our new official website (Coming soon).
 
 ## Citation
 
