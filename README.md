@@ -11,4 +11,4 @@ capture paired real-world hazy and haze-free videos that are perfectly aligned b
 ## Paper & Dataset
 **Paper:** [OpenAccess](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)
 
-**REVIDE Dataset (indoor):** [Baidu Yun](https://pan.baidu.com/s/1fycPTzcyEAJkgN-hKKi6ew) (Password:**n6r8**)
+**REVIDE-Indoor Dataset:** [Baidu Yun](https://pan.baidu.com/s/1fycPTzcyEAJkgN-hKKi6ew) (Code:**n6r8**)
