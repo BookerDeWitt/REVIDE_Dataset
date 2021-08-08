@@ -9,4 +9,5 @@ DEhazing (REVIDE)** dataset which can be used for the supervised learning of the
 capture paired real-world hazy and haze-free videos that are perfectly aligned by recording the same scene (with or without haze) twice. Considering the challenge of exploiting temporal redundancy among the hazy frames, we also develop a Confidence Guided and Improved Deformable Network (**CG-IDN**) for video dehazing. The experiments demonstrate that the hazy scenes in the REVIDE dataset are more realistic than the synthetic datasets and the proposed algorithm also performs favorably against state-of-the-art dehazing methods.
 
 ## Paper & Dataset
-[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)
+**Paper:** [OpenAccess](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)
+**REVIDE Dataset (indoor):** [Baidu Yun](https://pan.baidu.com/s/1fycPTzcyEAJkgN-hKKi6ew) (Password:**n6r8**)
