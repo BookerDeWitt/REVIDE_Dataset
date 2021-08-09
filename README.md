@@ -22,7 +22,7 @@ capture paired real-world hazy and haze-free videos that are perfectly aligned b
 ## Paper & Dataset
 **Paper:** [OpenAccess](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)
 
-**REVIDE-Indoor Dataset:** [Baidu Yun](https://pan.baidu.com/s/1fycPTzcyEAJkgN-hKKi6ew) (Code:**n6r8**) |  [Google Drive](https://drive.google.com/drive/u/0/folders/1MuxE6zcXCFyommxzUvFKCUxNJVMYr50k) 
+**REVIDE-Indoor Dataset:** [Baidu Yun](https://pan.baidu.com/s/1fycPTzcyEAJkgN-hKKi6ew) (Code:**n6r8**) |  [Google Drive](https://drive.google.com/file/d/1MYaVMUtcfqXeZpnbsfoJ2JBcpZUUlXGg/view?usp=sharing) 
 
 ## Official Link
 The real world datasets for video restoration will be a long-term project in our team, and we will update the **REVIDE** dataset (including the **REVIDE-Indoor**, **REVIDE-SYN**, and more real world video restoration datasets) in our new official website (Coming soon).
